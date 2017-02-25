@@ -20,8 +20,6 @@ namespace GitHub
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!"); 
-            MessageBox.Show("Hello from GitHub");
-            MessageBox.Show("Hello from Form");
         }
     }
 }
